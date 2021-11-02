@@ -5,21 +5,28 @@ Welcome to my page!
 I'm Kengya 👩🏻‍💻 Front end developer from 🇵🇪 Lima, Perú
 
 
-``` js
+```Javascript
 const makemile = {
   pronouns: "she"| "her"
   code: [Javascript, HTML, CSS, Bootstrap 4 ], 
   tools: [React, Node, jest],
-  
-}
+  }
+```
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently study on Laboratoria 💛
 - 🌱 I’m currently learning React
-- 💬 Ask me about 
+- 💬 Ask me about:
 - 📫 How to reach me:
-<a href= "www.linkedin.com/in/kengyamoncada/" rel="LinkedIn">![Foo](https://user-images.githubusercontent.com/32102471/126924571-38818c84-a7ec-443a-8fc4-05599607ed19.png)</a>
+ <div>
+- <a href = "mkengya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kengyamoncada/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+ <br>
+
+
+![animation](./github-user-contribution.svg)
 
 <!--
 **makemile/makemile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
