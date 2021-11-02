@@ -10,6 +10,7 @@ const makemile = {
   pronouns: "she"| "her"
   code: [Javascript, HTML, CSS, Bootstrap 4 ], 
   tools: [React, Node, jest],
+  languages: ["Spanish", "English", "French"]
   }
 ```
 
