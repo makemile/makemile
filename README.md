@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I'm Kengya 👩🏻‍💻 Front end developer from 🇵🇪  Lima, Perú
+I'm Kengya 👩🏻‍💻 Front end developer💛
 
 
 ```Javascript
@@ -16,7 +16,7 @@ const makemile = {
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently study on Laboratoria 💛
+- 🔭 I’m currently study on Laboratoria 
 - 🌱 I’m currently learning React
 - 📫 How to reach me:
  <div>
