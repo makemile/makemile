@@ -8,8 +8,8 @@ I'm Kengya 👩🏻‍💻 Front end developer💛
 ```Javascript
 const makemile = {
   pronouns: "she"| "her"
-  code: [Javascript, HTML, CSS, Bootstrap 4 ], 
-  tools: [React, Node, jest],
+  code: [Javascript, HTML, CSS, Bootstrap 5 ], 
+  tools: [React, jest],
   languages: ["Spanish", "English", "French"]
   }
 ```
