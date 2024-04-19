@@ -4,7 +4,8 @@ Welcome to my page!
 
 I'm Kengya 👩🏻‍💻 Front end developer💛
 
-![](https://i.gifer.com/4Snj.gif)
+![](https://github.com/makemile/main/4Snj.gif)
+
 
 ```Javascript
 const makemile = {
