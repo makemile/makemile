@@ -4,12 +4,14 @@ Welcome to my page!
 
 I'm Kengya 👩🏻‍💻 Front end developer💛
 
+<img src="https://github.com/makemile/makemile/assets/83560300/6db17a06-ebe6-409c-8297-518b8aaf0a1e" width="100" height="100" />
+
 ```Javascript
 const makemile = {
   pronouns: "she"| "her"
   code: [Javascript, HTML, CSS, Bootstrap 5 ], 
   tools: [React, jest],
-  languages: ["Spanish", "English", "French"]
+  languages: ["Spanish", "English"]
   }
 ```
 
