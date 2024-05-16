@@ -9,16 +9,13 @@ I'm Kengya 👩🏻‍💻 Front end developer💛
 ```Javascript
 const makemile = {
   pronouns: "she"| "her"
-  code: [Javascript, HTML, CSS, Bootstrap 5 ], 
-  tools: [React, jest],
+  code: [Javascript, HTML, CSS, Bootstrap 5, Tailwinds CSS], 
+  tools: [React,jest],
   languages: ["Spanish", "English"]
   }
 ```
+<div data-iframe-width="80" data-iframe-height="80" data-share-badge-id="55572276-3869-4d9f-889e-06306c73b93b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently study on Laboratoria 
-- 🌱 I’m currently learning React
 - 📫 How to reach me:
  <div>
  <a href = "mkengya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
