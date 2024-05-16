@@ -14,7 +14,7 @@ const makemile = {
   languages: ["Spanish", "English"]
   }
 ```
-<div data-iframe-width="80" data-iframe-height="80" data-share-badge-id="55572276-3869-4d9f-889e-06306c73b93b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/55572276-3869-4d9f-889e-06306c73b93b" target="_blank"><img width="90" height="90" src="https://user-images.githubusercontent.com/55572276-3869-4d9f-889e-06306c73b93b.png">
 
 - 📫 How to reach me:
  <div>
