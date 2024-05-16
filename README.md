@@ -14,7 +14,9 @@ const makemile = {
   languages: ["Spanish", "English"]
   }
 ```
-<a href="https://www.credly.com/badges/55572276-3869-4d9f-889e-06306c73b93b" target="_blank">![CyberEssentials](https://github.com/makemile/makemile/assets/83560300/72582517-ba1e-4b81-82a0-b74cea90c02a)
+<div>
+  <a href="https://www.credly.com/badges/55572276-3869-4d9f-889e-06306c73b93b" target="_blank"><img aling="left" width="90" height="90" src="https://github.com/makemile/makemile/assets/83560300/72582517-ba1e-4b81-82a0-b74cea90c02a"> 
+</div>
 
 
 - 📫 How to reach me:
