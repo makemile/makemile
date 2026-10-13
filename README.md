@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I'm Kengya 👩🏻‍💻 Front end developer💛
+I'm Kengya 👩🏻‍💻 Frontend Engineer 💛
 
 <img src="https://github.com/makemile/makemile/assets/83560300/6db17a06-ebe6-409c-8297-518b8aaf0a1e" width="100" height="100" />
 
